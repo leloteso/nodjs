@@ -1,0 +1,26 @@
+{
+  "name": "nodjsreadingfile",
+  "version": "1.0.0",
+  "description": "Reading file in node js",
+  "main": "nodejs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+    "publishConfig": {
+   "@leloteso:registry": "https://npm.pkg.github.com"
+ },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leloteso/nodjs.git"
+  },
+  "keywords": [
+    "readin-File-Node",
+    "Js"
+  ],
+  "author": "Lelisa Teso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leloteso/nodjs/issues"
+  },
+  "homepage": "https://github.com/leloteso/nodjs#readme"
+}
